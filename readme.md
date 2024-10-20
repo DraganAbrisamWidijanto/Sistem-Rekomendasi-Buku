@@ -112,12 +112,14 @@ Beberapa teknik visualisasi data dapat digunakan untuk memahami pola dalam datas
 Dengan melakukan analisis eksplorasi data (Exploratory Data Analysis), kita dapat mendapatkan wawasan lebih lanjut tentang preferensi pengguna dan popularitas buku.
 
 **Insight dari Histogram**:
-![Gambar 1](https://drive.google.com/uc?id=1BLTyJtCpPXGW-crNQUBiU4uo3_EVXTZ-)
+![boxplot](https://github.com/user-attachments/assets/cd6e82f1-b7c7-426e-b97a-3051f09e9979)
+
 - **Distribusi Normal**: Grafik menunjukkan distribusi yang menyerupai distribusi normal dengan puncak di sekitar rating 4. Ini menunjukkan bahwa sebagian besar buku mendapatkan rating yang baik, di atas rata-rata.
 - **Anomali**: Terdapat beberapa buku dengan rating yang sangat rendah (sekitar 3.0) atau sangat tinggi (mendekati 4.75). Hal ini bisa menjadi fokus untuk model rekomendasi agar dapat mengidentifikasi preferensi ekstrem pengguna.
 
 **Insight dari Boxplot**:
-![Gambar 2](https://drive.google.com/uc?id=1oqeqUo3lOiqU6Luf1L9B49lVkYamfJsT)
+![histogram](https://github.com/user-attachments/assets/e111af16-f6e0-4945-ad42-4440060edc21)
+
 - **Variasi Rating yang Signifikan**: Meskipun semua penulis tergolong populer, terdapat variasi yang cukup signifikan dalam rata-rata rating buku mereka. Ini menunjukkan bahwa popularitas seorang penulis tidak selalu berkorelasi langsung dengan kualitas buku yang dianggap oleh pembaca.
 
 ### Data Preparation
@@ -365,5 +367,6 @@ Untuk mengatasi masalah ini, sistem rekomendasi buku berbasis Content-Based Filt
 
 Antarmuka pengguna yang intuitif juga diimplementasikan agar rekomendasi buku yang relevan dapat disajikan dengan cara yang mudah dipahami, sehingga pengguna tidak merasa kewalahan. Dengan kedua pendekatan ini, sistem diharapkan dapat memberikan rekomendasi yang lebih variatif dan relevan, mencakup buku-buku baru yang mungkin menarik bagi pengguna.
 
-Secara keseluruhan, langkah-langkah yang diambil dalam proyek ini bertujuan untuk meningkatkan efektivitas sistem rekomendasi buku dan membantu pengguna menemukan buku yang sesuai dengan judul dan penulis yang mereka sukai. Dengan kombinasi pendekatan berbasis konten dan kolaboratif, diharapkan pengalaman pengguna dalam mencari buku dapat meningkat secara signifikan, dan pengguna tidak lagi melewatkan buku-buku yang sesuai dengan preferensi mereka.#   S i s t e m - R e k o m e n d a s i - B u k u  
+Secara keseluruhan, langkah-langkah yang diambil dalam proyek ini bertujuan untuk meningkatkan efektivitas sistem rekomendasi buku dan membantu pengguna menemukan buku yang sesuai dengan judul dan penulis yang mereka sukai. Dengan kombinasi pendekatan berbasis konten dan kolaboratif, diharapkan pengalaman pengguna dalam mencari buku dapat meningkat secara signifikan, dan pengguna tidak lagi melewatkan buku-buku yang sesuai dengan preferensi mereka.#   S i s t e m - R e k o m e n d a s i - B u k u 
+ 
  
