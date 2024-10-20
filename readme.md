@@ -112,13 +112,13 @@ Beberapa teknik visualisasi data dapat digunakan untuk memahami pola dalam datas
 Dengan melakukan analisis eksplorasi data (Exploratory Data Analysis), kita dapat mendapatkan wawasan lebih lanjut tentang preferensi pengguna dan popularitas buku.
 
 **Insight dari Histogram**:
-![boxplot](https://github.com/user-attachments/assets/cd6e82f1-b7c7-426e-b97a-3051f09e9979)
+![histogram](https://github.com/user-attachments/assets/e111af16-f6e0-4945-ad42-4440060edc21)
 
 - **Distribusi Normal**: Grafik menunjukkan distribusi yang menyerupai distribusi normal dengan puncak di sekitar rating 4. Ini menunjukkan bahwa sebagian besar buku mendapatkan rating yang baik, di atas rata-rata.
 - **Anomali**: Terdapat beberapa buku dengan rating yang sangat rendah (sekitar 3.0) atau sangat tinggi (mendekati 4.75). Hal ini bisa menjadi fokus untuk model rekomendasi agar dapat mengidentifikasi preferensi ekstrem pengguna.
 
 **Insight dari Boxplot**:
-![histogram](https://github.com/user-attachments/assets/e111af16-f6e0-4945-ad42-4440060edc21)
+![boxplot](https://github.com/user-attachments/assets/cd6e82f1-b7c7-426e-b97a-3051f09e9979)
 
 - **Variasi Rating yang Signifikan**: Meskipun semua penulis tergolong populer, terdapat variasi yang cukup signifikan dalam rata-rata rating buku mereka. Ini menunjukkan bahwa popularitas seorang penulis tidak selalu berkorelasi langsung dengan kualitas buku yang dianggap oleh pembaca.
 
