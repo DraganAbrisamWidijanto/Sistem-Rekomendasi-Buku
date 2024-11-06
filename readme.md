@@ -1,5 +1,5 @@
 # Laporan Proyek Machine Learning - Dragan Abrisam Widijanto
-## Book Recommendation Using Content-Based Filtering
+## Book Recommendation Using Content-Based Filtering dan Collaborative Filtering
 
 ### Project Overview
 Sistem rekomendasi merupakan alat generasi baru yang membantu pengguna menavigasi informasi di internet dan mendapatkan konten sesuai dengan preferensi mereka. Dalam konteks buku, sistem ini memainkan peran penting dalam menyarankan buku yang relevan berdasarkan kesamaan dengan buku yang telah dibaca sebelumnya. Dengan meningkatnya jumlah buku yang tersedia secara online, sistem rekomendasi menjadi semakin penting untuk membantu pembaca menemukan buku yang sesuai dengan minat dan preferensi mereka.
@@ -367,6 +367,4 @@ Untuk mengatasi masalah ini, sistem rekomendasi buku berbasis Content-Based Filt
 
 Antarmuka pengguna yang intuitif juga diimplementasikan agar rekomendasi buku yang relevan dapat disajikan dengan cara yang mudah dipahami, sehingga pengguna tidak merasa kewalahan. Dengan kedua pendekatan ini, sistem diharapkan dapat memberikan rekomendasi yang lebih variatif dan relevan, mencakup buku-buku baru yang mungkin menarik bagi pengguna.
 
-Secara keseluruhan, langkah-langkah yang diambil dalam proyek ini bertujuan untuk meningkatkan efektivitas sistem rekomendasi buku dan membantu pengguna menemukan buku yang sesuai dengan judul dan penulis yang mereka sukai. Dengan kombinasi pendekatan berbasis konten dan kolaboratif, diharapkan pengalaman pengguna dalam mencari buku dapat meningkat secara signifikan, dan pengguna tidak lagi melewatkan buku-buku yang sesuai dengan preferensi mereka.#   S i s t e m - R e k o m e n d a s i - B u k u 
- 
- 
+Secara keseluruhan, langkah-langkah yang diambil dalam proyek ini bertujuan untuk meningkatkan efektivitas sistem rekomendasi buku dan membantu pengguna menemukan buku yang sesuai dengan judul dan penulis yang mereka sukai. Dengan kombinasi pendekatan berbasis konten dan kolaboratif, diharapkan pengalaman pengguna dalam mencari buku dapat meningkat secara signifikan, dan pengguna tidak lagi melewatkan buku-buku yang sesuai dengan preferensi mereka.#
